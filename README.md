@@ -21,11 +21,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
-- [Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.goodreads.com/review/show/5200268762?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.82)
-- [Originals: How Non-Conformists Move the World](https://www.goodreads.com/review/show/5200267915?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️3.94)
-- [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/5200266836?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.06)
-- [The Slight Edge](https://www.goodreads.com/review/show/5200264484?utm_medium=api&utm_source=rss) by Jeff Olson (⭐️4.24)
 - [Who Moved My Cheese?](https://www.goodreads.com/review/show/5200251595?utm_medium=api&utm_source=rss) by Spencer Johnson (⭐️3.86)
+- [Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great](https://www.goodreads.com/review/show/5200218216?utm_medium=api&utm_source=rss) by Joshua Medcalf (⭐️4.09)
+- [Blink: The Power of Thinking Without Thinking](https://www.goodreads.com/review/show/5200196295?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️3.96)
+- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5200201744?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
+- [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/5200266836?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.06)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies
