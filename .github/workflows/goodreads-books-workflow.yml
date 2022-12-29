@@ -16,3 +16,11 @@ jobs:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "159669590"
           shelf: "currently-reading"
+          comment_tag_name: "GOODREADS-READING-LIST"
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
+          goodreads_user_id: "159669590"
+          shelf: "read"
+          comment_tag_name: "GOODREADS-READ-LIST"
+          sort_by_fields: "user_read_at"
