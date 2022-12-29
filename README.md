@@ -13,6 +13,15 @@
 [![StackOverflow Question 1: Changing marker style in scatter plot according to third variable](https://ytcards.demolab.com/?id=KfXANG9X524&title=StackOverflow+Question+1%3A+Changing+marker+style+in+scatter+plot+according+to+third+variable&lang=en&timestamp=1598284234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "StackOverflow Question 1: Changing marker style in scatter plot according to third variable")](https://www.youtube.com/watch?v=KfXANG9X524)
 <!-- END YOUTUBE-CARDS -->
 
+# Books
+### Currently Reading
+<!-- GOODREADS-READING-LIST:START -->
+<!-- GOODREADS-READING-LIST:END -->
+
+### Last 5
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=it176131&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
