@@ -21,11 +21,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
-- [Greenlights](https://www.goodreads.com/review/show/5200150187?utm_medium=api&utm_source=rss) by Matthew McConaughey (⭐️4.22)
-- [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.goodreads.com/review/show/5200153219?utm_medium=api&utm_source=rss) by Susan Cain (⭐️4.06)
-- [Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom](https://www.goodreads.com/review/show/5200172635?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.12)
-- [Radical Candor: Be a Kickass Boss Without Losing Your Humanity](https://www.goodreads.com/review/show/5200190880?utm_medium=api&utm_source=rss) by Kim Malone Scott (⭐️4.07)
-- [Blink: The Power of Thinking Without Thinking](https://www.goodreads.com/review/show/5200196295?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️3.96)
+- [Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.goodreads.com/review/show/5200268762?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.82)
+- [Originals: How Non-Conformists Move the World](https://www.goodreads.com/review/show/5200267915?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️3.94)
+- [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/5200266836?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.06)
+- [The Slight Edge](https://www.goodreads.com/review/show/5200264484?utm_medium=api&utm_source=rss) by Jeff Olson (⭐️4.24)
+- [Who Moved My Cheese?](https://www.goodreads.com/review/show/5200251595?utm_medium=api&utm_source=rss) by Spencer Johnson (⭐️3.86)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies
