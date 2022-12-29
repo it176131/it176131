@@ -19,7 +19,7 @@
 - [The Great Gatsby](https://www.goodreads.com/review/show/5200184234?utm_medium=api&utm_source=rss) by F. Scott Fitzgerald (⭐️3.93)
 <!-- GOODREADS-READING-LIST:END -->
 
-### Last 5
+### Read (Last 10)
 <!-- GOODREADS-READ-LIST:START -->
 - [Outliers: The Story of Success](https://www.goodreads.com/review/show/5200197709?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️4.18)
 - [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/review/show/5200188969?utm_medium=api&utm_source=rss) by William Zinsser (⭐️4.23)
