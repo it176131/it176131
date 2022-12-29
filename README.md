@@ -21,8 +21,6 @@
 
 ### Read (Last 10)
 <!-- GOODREADS-READ-LIST:START -->
-- [Outliers: The Story of Success](https://www.goodreads.com/review/show/5200197709?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️4.18)
-- [On Writing Well: The Classic Guide to Writing Nonfiction](https://www.goodreads.com/review/show/5200188969?utm_medium=api&utm_source=rss) by William Zinsser (⭐️4.23)
 - [Option B: Facing Adversity, Building Resilience, and Finding Joy](https://www.goodreads.com/review/show/5200268762?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.82)
 - [Originals: How Non-Conformists Move the World](https://www.goodreads.com/review/show/5200267915?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️3.94)
 - [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/5200266836?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.06)
@@ -31,6 +29,8 @@
 - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/5200239736?utm_medium=api&utm_source=rss) by Chris Voss (⭐️4.36)
 - [Rich Dad's Before You Quit Your Job: 10 Real-Life Lessons Every Entrepreneur Should Know About Building a Multimillion-Dollar Business](https://www.goodreads.com/review/show/5200235810?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️4.11)
 - [The Signal and the Noise: Why So Many Predictions Fail—But Some Don't](https://www.goodreads.com/review/show/5200224179?utm_medium=api&utm_source=rss) by Nate Silver (⭐️3.95)
+- [Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great](https://www.goodreads.com/review/show/5200218216?utm_medium=api&utm_source=rss) by Joshua Medcalf (⭐️4.09)
+- [Multipliers: How the Best Leaders Make Everyone Smarter](https://www.goodreads.com/review/show/5200205449?utm_medium=api&utm_source=rss) by Liz Wiseman (⭐️3.96)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies
