@@ -23,4 +23,4 @@ jobs:
           goodreads_user_id: "159669590"
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
-          sort_by_fields: ">user_read_at,>user_date_added"
+          sort_by_fields: "<user_read_at"
