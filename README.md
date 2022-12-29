@@ -1,16 +1,9 @@
 ### Hi there 👋 I'm Ian 🙂
 
-# StackOverflow
-I occasionally go on question-answering binges
-
 <a href="https://stackoverflow.com/users/6509519/ian-thompson"><img src="https://stackoverflow.com/users/flair/6509519.png?theme=dark" width="208" height="58" alt="profile for Ian Thompson at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ian Thompson at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-# Medium
-Sometimes I write articles
 
 ![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ianiat11&limit=4&theme=dracula)
 
-# Github Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=it176131&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
