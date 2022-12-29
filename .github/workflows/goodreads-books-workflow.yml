@@ -24,3 +24,4 @@ jobs:
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
           max_books_count: "5"
+          sort_by_fiels: ">user_read_at,>pubDate"
