@@ -19,7 +19,7 @@
 - [The Great Gatsby](https://www.goodreads.com/review/show/5200184234?utm_medium=api&utm_source=rss) by F. Scott Fitzgerald (⭐️3.93)
 <!-- GOODREADS-READING-LIST:END -->
 
-### Read (Last 10)
+### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
 - [Greenlights](https://www.goodreads.com/review/show/5200150187?utm_medium=api&utm_source=rss) by Matthew McConaughey (⭐️4.22)
 - [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.goodreads.com/review/show/5200153219?utm_medium=api&utm_source=rss) by Susan Cain (⭐️4.06)
