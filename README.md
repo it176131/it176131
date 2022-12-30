@@ -21,11 +21,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
-- [Who Moved My Cheese?](https://www.goodreads.com/review/show/5200251595?utm_medium=api&utm_source=rss) by Spencer Johnson (⭐️3.86)
-- [Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great](https://www.goodreads.com/review/show/5200218216?utm_medium=api&utm_source=rss) by Joshua Medcalf (⭐️4.09)
-- [Blink: The Power of Thinking Without Thinking](https://www.goodreads.com/review/show/5200196295?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️3.96)
-- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5200201744?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
-- [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/5200266836?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.06)
+- [The Seven Keys to Calm: Essential Steps for Staying Calm Under Any Circumstances](https://www.goodreads.com/review/show/5201677629?utm_medium=api&utm_source=rss) by A.M. Matthews (⭐️3.77)
+- [The Power of Kindness: The Unexpected Benefits of Leading a Compassionate Life](https://www.goodreads.com/review/show/5201672028?utm_medium=api&utm_source=rss) by Piero Ferrucci (⭐️4.04)
+- [Think Like a Freak](https://www.goodreads.com/review/show/5201668654?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.82)
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/review/show/5201666297?utm_medium=api&utm_source=rss) by Camille Fournier (⭐️4.22)
+- [The Wisdom of Finance: Discovering Humanity in the World of Risk and Return](https://www.goodreads.com/review/show/5201663607?utm_medium=api&utm_source=rss) by Mihir Desai (⭐️4.03)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies
