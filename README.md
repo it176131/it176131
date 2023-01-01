@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Great Gatsby](https://www.goodreads.com/review/show/5200184234?utm_medium=api&utm_source=rss) by F. Scott Fitzgerald (⭐️3.93)
+- [The Little Book That Builds Wealth: The Knockout Formula for Finding Great Investments](https://www.goodreads.com/review/show/5208285136?utm_medium=api&utm_source=rss) by Pat Dorsey (⭐️4.27)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
