@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Little Book That Builds Wealth: The Knockout Formula for Finding Great Investments](https://www.goodreads.com/review/show/5208285136?utm_medium=api&utm_source=rss) by Pat Dorsey (⭐️4.27)
+- [Experiments in Ethics](https://www.goodreads.com/review/show/5227708740?utm_medium=api&utm_source=rss) by Kwame Anthony Appiah (⭐️3.73)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
