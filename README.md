@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Experiments in Ethics](https://www.goodreads.com/review/show/5227708740?utm_medium=api&utm_source=rss) by Kwame Anthony Appiah (⭐️3.73)
+- [Experiments in Ethics](https://www.goodreads.com/review/show/5227708740?utm_medium=api&utm_source=rss) by Kwame Anthony Appiah (⭐️3.72)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
