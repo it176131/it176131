@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Solo: How to Work Alone (and Not Lose Your Mind)](https://www.goodreads.com/review/show/5244846462?utm_medium=api&utm_source=rss) by Rebecca Seal (⭐️3.86)
+- [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/review/show/5244843639?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️4)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
