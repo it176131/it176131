@@ -21,11 +21,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Solo: How to Work Alone (and Not Lose Your Mind)](https://www.goodreads.com/review/show/5244846462?utm_medium=api&utm_source=rss) by Rebecca Seal (⭐️3.86)
 - [Experiments in Ethics](https://www.goodreads.com/review/show/5227708740?utm_medium=api&utm_source=rss) by Kwame Anthony Appiah (⭐️3.72)
 - [The Little Book That Builds Wealth: The Knockout Formula for Finding Great Investments](https://www.goodreads.com/review/show/5208285136?utm_medium=api&utm_source=rss) by Pat Dorsey (⭐️4.27)
 - [The Great Gatsby](https://www.goodreads.com/review/show/5200184234?utm_medium=api&utm_source=rss) by F. Scott Fitzgerald (⭐️3.93)
 - [The Seven Keys to Calm: Essential Steps for Staying Calm Under Any Circumstances](https://www.goodreads.com/review/show/5201677629?utm_medium=api&utm_source=rss) by A.M. Matthews (⭐️3.77)
-- [The Power of Kindness: The Unexpected Benefits of Leading a Compassionate Life](https://www.goodreads.com/review/show/5201672028?utm_medium=api&utm_source=rss) by Piero Ferrucci (⭐️4.04)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
