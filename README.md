@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/review/show/5244843639?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️4)
+- [Emotional Intelligence 2.0](https://www.goodreads.com/review/show/5270163172?utm_medium=api&utm_source=rss) by Travis Bradberry (⭐️3.84)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
