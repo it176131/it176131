@@ -21,11 +21,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Emotional Intelligence 2.0](https://www.goodreads.com/review/show/5270163172?utm_medium=api&utm_source=rss) by Patrick M. Lencioni (⭐️3.84)
 - [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/review/show/5244843639?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️4)
 - [Solo: How to Work Alone (and Not Lose Your Mind)](https://www.goodreads.com/review/show/5244846462?utm_medium=api&utm_source=rss) by Rebecca Seal (⭐️3.87)
 - [Experiments in Ethics](https://www.goodreads.com/review/show/5227708740?utm_medium=api&utm_source=rss) by Kwame Anthony Appiah (⭐️3.73)
 - [The Little Book That Builds Wealth: The Knockout Formula for Finding Great Investments](https://www.goodreads.com/review/show/5208285136?utm_medium=api&utm_source=rss) by Pat Dorsey (⭐️4.27)
-- [The Great Gatsby](https://www.goodreads.com/review/show/5200184234?utm_medium=api&utm_source=rss) by F. Scott Fitzgerald (⭐️3.93)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
