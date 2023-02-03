@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Emotional Intelligence 2.0](https://www.goodreads.com/review/show/5270163172?utm_medium=api&utm_source=rss) by Patrick M. Lencioni (⭐️3.84)
+- [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.goodreads.com/review/show/5281372077?utm_medium=api&utm_source=rss) by Teresa  Torres (⭐️4.53)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
