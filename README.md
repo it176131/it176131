@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.goodreads.com/review/show/5281372077?utm_medium=api&utm_source=rss) by Teresa  Torres (⭐️4.53)
+- [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/review/show/5344896278?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️4)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
