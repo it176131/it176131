@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/review/show/5344896278?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️4)
+- [The Alchemist](https://www.goodreads.com/review/show/5508934357?utm_medium=api&utm_source=rss) by Paulo Coelho (⭐️4.01)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
