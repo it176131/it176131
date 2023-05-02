@@ -25,7 +25,7 @@
 - [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.goodreads.com/review/show/5281372077?utm_medium=api&utm_source=rss) by Teresa  Torres (⭐️4.52)
 - [Emotional Intelligence 2.0](https://www.goodreads.com/review/show/5270163172?utm_medium=api&utm_source=rss) by Travis Bradberry (⭐️3.84)
 - [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/review/show/5244843639?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️4)
-- [Solo: How to Work Alone (and Not Lose Your Mind)](https://www.goodreads.com/review/show/5244846462?utm_medium=api&utm_source=rss) by Rebecca Seal (⭐️3.81)
+- [Solo: How to Work Alone (and Not Lose Your Mind)](https://www.goodreads.com/review/show/5244846462?utm_medium=api&utm_source=rss) by Rebecca Seal (⭐️3.82)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
