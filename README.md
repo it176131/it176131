@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Alchemist](https://www.goodreads.com/review/show/5508934357?utm_medium=api&utm_source=rss) by Paulo Coelho (⭐️4.01)
+- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/5620002653?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.22)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
