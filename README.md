@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/5620002653?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.22)
+- [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/review/show/5270161904?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.15)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
