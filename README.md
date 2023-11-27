@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/review/show/5270161904?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.15)
+- [What Would Google Do?](https://www.goodreads.com/review/show/5270159637?utm_medium=api&utm_source=rss) by Jeff Jarvis (⭐️3.88)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
