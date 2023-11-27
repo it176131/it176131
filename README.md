@@ -21,11 +21,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/review/show/5270161904?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.15)
 - [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/5620002653?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.22)
 - [The Alchemist](https://www.goodreads.com/review/show/5508934357?utm_medium=api&utm_source=rss) by Paulo Coelho (⭐️4.01)
 - [The Tipping Point: How Little Things Can Make a Big Difference](https://www.goodreads.com/review/show/5344896278?utm_medium=api&utm_source=rss) by Malcolm Gladwell (⭐️4)
 - [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.goodreads.com/review/show/5281372077?utm_medium=api&utm_source=rss) by Teresa  Torres (⭐️4.49)
-- [Emotional Intelligence 2.0](https://www.goodreads.com/review/show/5270163172?utm_medium=api&utm_source=rss) by Travis Bradberry (⭐️3.84)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
