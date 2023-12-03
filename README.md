@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [What Would Google Do?](https://www.goodreads.com/review/show/5270159637?utm_medium=api&utm_source=rss) by Jeff Jarvis (⭐️3.88)
+- [Slumdog Millionaire](https://www.goodreads.com/review/show/6019214929?utm_medium=api&utm_source=rss) by Vikas Swarup (⭐️4.01)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
