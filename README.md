@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Slumdog Millionaire](https://www.goodreads.com/review/show/6019214929?utm_medium=api&utm_source=rss) by Vikas Swarup (⭐️4.01)
+- [Slumdog Millionaire](https://www.goodreads.com/review/show/6019214929?utm_medium=api&utm_source=rss) by Vikas Swarup (⭐️4)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
