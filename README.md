@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Nearing Home: Life, Faith, and Finishing Well](https://www.goodreads.com/review/show/6036256928?utm_medium=api&utm_source=rss) by Billy Graham (⭐️4.29)
+- [The Working Poor: Invisible in America](https://www.goodreads.com/review/show/5249789496?utm_medium=api&utm_source=rss) by David K. Shipler (⭐️4.03)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
