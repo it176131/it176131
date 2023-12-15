@@ -23,7 +23,7 @@
 <!-- GOODREADS-READ-LIST:START -->
 - [Nearing Home: Life, Faith, and Finishing Well](https://www.goodreads.com/review/show/6036256928?utm_medium=api&utm_source=rss) by Billy Graham (⭐️4.29)
 - [Many Happy Returns: The Story of Henry Bloch, America's Tax Man](https://www.goodreads.com/review/show/6029025464?utm_medium=api&utm_source=rss) by Thomas M. Bloch (⭐️3.86)
-- [Slumdog Millionaire](https://www.goodreads.com/review/show/6019214929?utm_medium=api&utm_source=rss) by Vikas Swarup (⭐️4.01)
+- [Slumdog Millionaire](https://www.goodreads.com/review/show/6019214929?utm_medium=api&utm_source=rss) by Vikas Swarup (⭐️4)
 - [What Would Google Do?](https://www.goodreads.com/review/show/5270159637?utm_medium=api&utm_source=rss) by Jeff Jarvis (⭐️3.88)
 - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/review/show/5270161904?utm_medium=api&utm_source=rss) by Stephen R. Covey (⭐️4.15)
 <!-- GOODREADS-READ-LIST:END -->
