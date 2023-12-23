@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Working Poor: Invisible in America](https://www.goodreads.com/review/show/5249789496?utm_medium=api&utm_source=rss) by David K. Shipler (⭐️4.03)
+- [Casino Royale (James Bond, #1)](https://www.goodreads.com/review/show/6072305744?utm_medium=api&utm_source=rss) by Ian Fleming (⭐️3.74)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
