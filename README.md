@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Casino Royale (James Bond, #1)](https://www.goodreads.com/review/show/6072305744?utm_medium=api&utm_source=rss) by Ian Fleming (⭐️3.74)
+- [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5984587337?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.25)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
