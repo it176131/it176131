@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5984587337?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.25)
+- [Othello (Signet 2D REV. Ed..) (Signet Classics) by Shakespeare, William(April 1, 1998) School & Library Binding](https://www.goodreads.com/review/show/6108353777?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
