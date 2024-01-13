@@ -24,7 +24,7 @@
 - [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5984587337?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.2)
 - [Casino Royale (James Bond, #1)](https://www.goodreads.com/review/show/6072305744?utm_medium=api&utm_source=rss) by Ian Fleming (⭐️3.74)
 - [The Working Poor: Invisible in America](https://www.goodreads.com/review/show/5249789496?utm_medium=api&utm_source=rss) by David K. Shipler (⭐️4.03)
-- [Nearing Home: Life, Faith, and Finishing Well](https://www.goodreads.com/review/show/6036256928?utm_medium=api&utm_source=rss) by Billy Graham (⭐️4.29)
+- [Nearing Home: Life, Faith, and Finishing Well](https://www.goodreads.com/review/show/6036256928?utm_medium=api&utm_source=rss) by Billy Graham (⭐️4.3)
 - [Many Happy Returns: The Story of Henry Bloch, America's Tax Man](https://www.goodreads.com/review/show/6029025464?utm_medium=api&utm_source=rss) by Thomas M. Bloch (⭐️3.86)
 <!-- GOODREADS-READ-LIST:END -->
 
