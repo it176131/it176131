@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Othello (Signet 2D REV. Ed..) (Signet Classics) by Shakespeare, William(April 1, 1998) School & Library Binding](https://www.goodreads.com/review/show/6108353777?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️)
+- [Don't Sweat the Small Stuff at Work: Simple Ways to Minimize Stress and Conflict While Bringing Out the Best in Yourself and Others](https://www.goodreads.com/review/show/5270168251?utm_medium=api&utm_source=rss) by Richard Carlson (⭐️3.85)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
