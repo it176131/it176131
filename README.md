@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Don't Sweat the Small Stuff at Work: Simple Ways to Minimize Stress and Conflict While Bringing Out the Best in Yourself and Others](https://www.goodreads.com/review/show/5270168251?utm_medium=api&utm_source=rss) by Richard Carlson (⭐️3.85)
+- [The Richest Man in Babylon](https://www.goodreads.com/review/show/6073613620?utm_medium=api&utm_source=rss) by George S. Clason (⭐️4.25)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
