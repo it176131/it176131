@@ -21,11 +21,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Don't Sweat the Small Stuff at Work: Simple Ways to Minimize Stress and Conflict While Bringing Out the Best in Yourself and Others](https://www.goodreads.com/review/show/5270168251?utm_medium=api&utm_source=rss) by Richard Carlson (⭐️3.85)
 - [Othello (Signet 2D REV. Ed..) (Signet Classics) by Shakespeare, William(April 1, 1998) School & Library Binding](https://www.goodreads.com/review/show/6108353777?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️)
 - [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5984587337?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.1)
 - [Casino Royale (James Bond, #1)](https://www.goodreads.com/review/show/6072305744?utm_medium=api&utm_source=rss) by Ian Fleming (⭐️3.74)
 - [The Working Poor: Invisible in America](https://www.goodreads.com/review/show/5249789496?utm_medium=api&utm_source=rss) by David K. Shipler (⭐️4.03)
-- [Nearing Home: Life, Faith, and Finishing Well](https://www.goodreads.com/review/show/6036256928?utm_medium=api&utm_source=rss) by Billy Graham (⭐️4.3)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
