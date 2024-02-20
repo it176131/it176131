@@ -16,7 +16,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Richest Man in Babylon](https://www.goodreads.com/review/show/6073613620?utm_medium=api&utm_source=rss) by George S. Clason (⭐️4.25)
+- [Measure What Matters](https://www.goodreads.com/review/show/5322262347?utm_medium=api&utm_source=rss) by John Doerr (⭐️3.96)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
