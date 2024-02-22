@@ -25,7 +25,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 - [The Richest Man in Babylon](https://www.goodreads.com/review/show/6073613620?utm_medium=api&utm_source=rss) by George S. Clason (⭐️4.25)
 - [Don't Sweat the Small Stuff at Work: Simple Ways to Minimize Stress and Conflict While Bringing Out the Best in Yourself and Others](https://www.goodreads.com/review/show/5270168251?utm_medium=api&utm_source=rss) by Richard Carlson (⭐️3.86)
 - [Othello (Signet 2D REV. Ed..) (Signet Classics) by Shakespeare, William(April 1, 1998) School & Library Binding](https://www.goodreads.com/review/show/6108353777?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️)
-- [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5984587337?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️3.97)
+- [Hidden Potential: The Science of Achieving Greater Things](https://www.goodreads.com/review/show/5984587337?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐️4.01)
 - [Casino Royale (James Bond, #1)](https://www.goodreads.com/review/show/6072305744?utm_medium=api&utm_source=rss) by Ian Fleming (⭐️3.74)
 <!-- GOODREADS-READ-LIST:END -->
 
