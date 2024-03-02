@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Measure What Matters](https://www.goodreads.com/review/show/5322262347?utm_medium=api&utm_source=rss) by John Doerr (⭐️3.96)
+- [Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions](https://www.goodreads.com/review/show/5270159191?utm_medium=api&utm_source=rss) by Temple Grandin (⭐️3.63)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
