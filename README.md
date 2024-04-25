@@ -22,11 +22,11 @@ Checkout my blog! 👉 https://it176131.github.io/
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Buy, Rehab, Rent, Refinance, and Repeat: The BRRRR Rental Property Investment Strategy Made Simple](https://www.goodreads.com/review/show/6402830990?utm_medium=api&utm_source=rss) by David     Greene (⭐️4.44)
 - [Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions](https://www.goodreads.com/review/show/5270159191?utm_medium=api&utm_source=rss) by Temple Grandin (⭐️3.61)
 - [Measure What Matters](https://www.goodreads.com/review/show/5322262347?utm_medium=api&utm_source=rss) by John Doerr (⭐️3.96)
 - [The Richest Man in Babylon](https://www.goodreads.com/review/show/6073613620?utm_medium=api&utm_source=rss) by George S. Clason (⭐️4.25)
 - [Don't Sweat the Small Stuff at Work: Simple Ways to Minimize Stress and Conflict While Bringing Out the Best in Yourself and Others](https://www.goodreads.com/review/show/5270168251?utm_medium=api&utm_source=rss) by Richard Carlson (⭐️3.85)
-- [Othello (Signet 2D REV. Ed..) (Signet Classics) by Shakespeare, William(April 1, 1998) School & Library Binding](https://www.goodreads.com/review/show/6108353777?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️5)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
