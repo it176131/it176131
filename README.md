@@ -26,7 +26,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 - [Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions](https://www.goodreads.com/review/show/5270159191?utm_medium=api&utm_source=rss) by Temple Grandin (⭐️3.62)
 - [Measure What Matters](https://www.goodreads.com/review/show/5322262347?utm_medium=api&utm_source=rss) by John Doerr (⭐️3.96)
 - [The Richest Man in Babylon](https://www.goodreads.com/review/show/6073613620?utm_medium=api&utm_source=rss) by George S. Clason (⭐️4.25)
-- [Don't Sweat the Small Stuff at Work: Simple Ways to Minimize Stress and Conflict While Bringing Out the Best in Yourself and Others](https://www.goodreads.com/review/show/5270168251?utm_medium=api&utm_source=rss) by Richard Carlson (⭐️3.85)
+- [Don't Sweat the Small Stuff at Work: Simple Ways to Minimize Stress and Conflict While Bringing Out the Best in Yourself and Others](https://www.goodreads.com/review/show/5270168251?utm_medium=api&utm_source=rss) by Richard Carlson (⭐️3.86)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
