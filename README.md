@@ -25,7 +25,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 - [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/review/show/5679763986?utm_medium=api&utm_source=rss) by James C. Collins (⭐️4.13)
 - [Othello (Signet 2D REV. Ed..) (Signet Classics) by Shakespeare, William(April 1, 1998) School & Library Binding](https://www.goodreads.com/review/show/6108353777?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️5)
 - [Buy, Rehab, Rent, Refinance, and Repeat: The BRRRR Rental Property Investment Strategy Made Simple](https://www.goodreads.com/review/show/6402830990?utm_medium=api&utm_source=rss) by David     Greene (⭐️4.45)
-- [Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions](https://www.goodreads.com/review/show/5270159191?utm_medium=api&utm_source=rss) by Temple Grandin (⭐️3.62)
+- [Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions](https://www.goodreads.com/review/show/5270159191?utm_medium=api&utm_source=rss) by Temple Grandin (⭐️3.61)
 - [Measure What Matters](https://www.goodreads.com/review/show/5322262347?utm_medium=api&utm_source=rss) by John Doerr (⭐️3.96)
 <!-- GOODREADS-READ-LIST:END -->
 
