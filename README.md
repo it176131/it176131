@@ -22,11 +22,11 @@ Checkout my blog! 👉 https://it176131.github.io/
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Home Inspection Secrets of A Happy Home Inspector](https://www.goodreads.com/review/show/6551455569?utm_medium=api&utm_source=rss) by Wally Conway (⭐️4.22)
 - [The Book on Estimating Rehab Costs: The Investor's Guide to Defining Your Renovation Plan, Building Your Budget, and Knowing Exactly How Much It All Costs](https://www.goodreads.com/review/show/6288757320?utm_medium=api&utm_source=rss) by J.  Scott (⭐️4.16)
 - [Good to Great: Why Some Companies Make the Leap... and Others Don't](https://www.goodreads.com/review/show/5679763986?utm_medium=api&utm_source=rss) by James C. Collins (⭐️4.13)
 - [Othello (Signet 2D REV. Ed..) (Signet Classics) by Shakespeare, William(April 1, 1998) School & Library Binding](https://www.goodreads.com/review/show/6108353777?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️5)
 - [Buy, Rehab, Rent, Refinance, and Repeat: The BRRRR Rental Property Investment Strategy Made Simple](https://www.goodreads.com/review/show/6402830990?utm_medium=api&utm_source=rss) by David     Greene (⭐️4.45)
-- [Visual Thinking: The Hidden Gifts of People Who Think in Pictures, Patterns, and Abstractions](https://www.goodreads.com/review/show/5270159191?utm_medium=api&utm_source=rss) by Temple Grandin (⭐️3.62)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
