@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Home Inspection Secrets of A Happy Home Inspector](https://www.goodreads.com/review/show/6551455569?utm_medium=api&utm_source=rss) by Wally Conway (⭐️4.22)
+- [How Not to Be Wrong: The Power of Mathematical Thinking](https://www.goodreads.com/review/show/5270158235?utm_medium=api&utm_source=rss) by Jordan Ellenberg (⭐️3.95)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
