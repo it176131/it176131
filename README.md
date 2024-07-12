@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [How Not to Be Wrong: The Power of Mathematical Thinking](https://www.goodreads.com/review/show/5270158235?utm_medium=api&utm_source=rss) by Jordan Ellenberg (⭐️3.95)
+- [The Power of Serving Others: You Can Start Where You Are](https://www.goodreads.com/review/show/6663509800?utm_medium=api&utm_source=rss) by Gary Morsch (⭐️4)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
