@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Shining (The Shining, #1)](https://www.goodreads.com/review/show/6679101891?utm_medium=api&utm_source=rss) by Stephen King (⭐️4.27)
+- [The Book on Rental Property Investing (BiggerPockets Rental Kit, #2)](https://www.goodreads.com/review/show/6730172705?utm_medium=api&utm_source=rss) by Brandon Turner (⭐️4.29)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
