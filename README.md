@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Book on Rental Property Investing (BiggerPockets Rental Kit, #2)](https://www.goodreads.com/review/show/6730172705?utm_medium=api&utm_source=rss) by Brandon Turner (⭐️4.27)
+- [In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.goodreads.com/review/show/5270160055?utm_medium=api&utm_source=rss) by Steven Levy (⭐️3.82)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
