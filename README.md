@@ -26,7 +26,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 - [The Shining (The Shining, #1)](https://www.goodreads.com/review/show/6679101891?utm_medium=api&utm_source=rss) by Stephen         King (⭐️4.27)
 - [The Power of Serving Others: You Can Start Where You Are](https://www.goodreads.com/review/show/6663509800?utm_medium=api&utm_source=rss) by Gary Morsch (⭐️3.99)
 - [How Not to Be Wrong: The Power of Mathematical Thinking](https://www.goodreads.com/review/show/5270158235?utm_medium=api&utm_source=rss) by Jordan Ellenberg (⭐️3.95)
-- [Home Inspection Secrets of A Happy Home Inspector](https://www.goodreads.com/review/show/6551455569?utm_medium=api&utm_source=rss) by Wally Conway (⭐️4.22)
+- [Home Inspection Secrets of A Happy Home Inspector](https://www.goodreads.com/review/show/6551455569?utm_medium=api&utm_source=rss) by Wally Conway (⭐️4.11)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
