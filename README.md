@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.goodreads.com/review/show/5270160055?utm_medium=api&utm_source=rss) by Steven Levy (⭐️3.82)
+- [The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them](https://www.goodreads.com/review/show/5270166993?utm_medium=api&utm_source=rss) by Richard J. Davidson (⭐️3.92)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
