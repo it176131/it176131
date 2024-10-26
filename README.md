@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them](https://www.goodreads.com/review/show/5270166993?utm_medium=api&utm_source=rss) by Richard J. Davidson (⭐️3.92)
+- [Inside Delta Force: The Story of America's Elite Counterterrorist Unit](https://www.goodreads.com/review/show/6955857628?utm_medium=api&utm_source=rss) by Eric L. Haney (⭐️4.16)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
