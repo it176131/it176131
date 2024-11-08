@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Inside Delta Force: The Story of America's Elite Counterterrorist Unit](https://www.goodreads.com/review/show/6955857628?utm_medium=api&utm_source=rss) by Eric L. Haney (⭐️4.16)
+- [IRL: Finding Our Real Selves in a Digital World](https://www.goodreads.com/review/show/6987569198?utm_medium=api&utm_source=rss) by Chris Stedman (⭐️3.61)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
