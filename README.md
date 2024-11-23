@@ -22,11 +22,11 @@ Checkout my blog! 👉 https://it176131.github.io/
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [IRL: Finding Our Real Selves in a Digital World](https://www.goodreads.com/review/show/6987569198?utm_medium=api&utm_source=rss) by Chris Stedman (⭐️3.61)
 - [Inside Delta Force: The Story of America's Elite Counterterrorist Unit](https://www.goodreads.com/review/show/6955857628?utm_medium=api&utm_source=rss) by Eric L. Haney (⭐️4.16)
 - [The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them](https://www.goodreads.com/review/show/5270166993?utm_medium=api&utm_source=rss) by Richard J. Davidson (⭐️3.92)
 - [In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.goodreads.com/review/show/5270160055?utm_medium=api&utm_source=rss) by Steven Levy (⭐️3.83)
 - [The Book on Rental Property Investing (BiggerPockets Rental Kit, #2)](https://www.goodreads.com/review/show/6730172705?utm_medium=api&utm_source=rss) by Brandon Turner (⭐️4.28)
-- [The Shining (The Shining, #1)](https://www.goodreads.com/review/show/6679101891?utm_medium=api&utm_source=rss) by Stephen        King (⭐️4.27)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
