@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [IRL: Finding Our Real Selves in a Digital World](https://www.goodreads.com/review/show/6987569198?utm_medium=api&utm_source=rss) by Chris Stedman (⭐️3.61)
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/6984734757?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.88)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
