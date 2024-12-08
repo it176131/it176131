@@ -22,11 +22,11 @@ Checkout my blog! 👉 https://it176131.github.io/
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Surrounded by Bad Bosses (And Lazy Employees): How to Stop Struggling, Start Succeeding, and Deal with Idiots at Work](https://www.goodreads.com/review/show/6977122439?utm_medium=api&utm_source=rss) by Thomas Erikson (⭐️3.67)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/6984734757?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.88)
 - [IRL: Finding Our Real Selves in a Digital World](https://www.goodreads.com/review/show/6987569198?utm_medium=api&utm_source=rss) by Chris Stedman (⭐️3.61)
 - [Inside Delta Force: The Story of America's Elite Counterterrorist Unit](https://www.goodreads.com/review/show/6955857628?utm_medium=api&utm_source=rss) by Eric L. Haney (⭐️4.16)
 - [The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live--and How You Can Change Them](https://www.goodreads.com/review/show/5270166993?utm_medium=api&utm_source=rss) by Richard J. Davidson (⭐️3.92)
-- [In the Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.goodreads.com/review/show/5270160055?utm_medium=api&utm_source=rss) by Steven Levy (⭐️3.83)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
