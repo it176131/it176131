@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Surrounded by Bad Bosses (And Lazy Employees): How to Stop Struggling, Start Succeeding, and Deal with Idiots at Work](https://www.goodreads.com/review/show/6977122439?utm_medium=api&utm_source=rss) by Thomas Erikson (⭐️3.67)
+- [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/review/show/7069556015?utm_medium=api&utm_source=rss) by Michael   Lewis (⭐️4.34)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
