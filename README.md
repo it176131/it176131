@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/review/show/7069556015?utm_medium=api&utm_source=rss) by Michael   Lewis (⭐️4.34)
+- [Congo](https://www.goodreads.com/review/show/7102618697?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.63)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
