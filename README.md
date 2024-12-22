@@ -25,7 +25,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 - [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/review/show/7069556015?utm_medium=api&utm_source=rss) by Michael   Lewis (⭐️4.34)
 - [Surrounded by Bad Bosses (And Lazy Employees): How to Stop Struggling, Start Succeeding, and Deal with Idiots at Work](https://www.goodreads.com/review/show/6977122439?utm_medium=api&utm_source=rss) by Thomas Erikson (⭐️3.66)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/6984734757?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.88)
-- [IRL: Finding Our Real Selves in a Digital World](https://www.goodreads.com/review/show/6987569198?utm_medium=api&utm_source=rss) by Chris Stedman (⭐️3.61)
+- [IRL: Finding Our Real Selves in a Digital World](https://www.goodreads.com/review/show/6987569198?utm_medium=api&utm_source=rss) by Chris Stedman (⭐️3.59)
 - [Inside Delta Force: The Story of America's Elite Counterterrorist Unit](https://www.goodreads.com/review/show/6955857628?utm_medium=api&utm_source=rss) by Eric L. Haney (⭐️4.16)
 <!-- GOODREADS-READ-LIST:END -->
 
