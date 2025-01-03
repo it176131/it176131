@@ -17,7 +17,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Congo](https://www.goodreads.com/review/show/7102618697?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.63)
+- [Sphere](https://www.goodreads.com/review/show/7161743966?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.83)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
