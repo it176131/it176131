@@ -1,5 +1,10 @@
 name: "Update README with most recent blog post"
-on: push
+on:
+  push:
+    branches: ["main", "master"]
+
+  schedule:
+    - cron: "* * * * *"
 
 permissions:
   contents: write
