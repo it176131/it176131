@@ -5,7 +5,8 @@ Checkout my blog! 👉 https://it176131.github.io/
 <a href="https://stackoverflow.com/users/6509519/ian-thompson"><img src="https://stackoverflow.com/users/flair/6509519.png?theme=dark" width="208" height="58" alt="profile for Ian Thompson at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ian Thompson at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 # Articles ✍
-![Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ianiat11&limit=6&theme=dracula)
+<!-- BLOG START -->
+<!-- BLOG END -->
 
 # Videos 📺
 <!-- BEGIN YOUTUBE-CARDS -->
