@@ -1,0 +1,32 @@
+name: "Update README with most recent blog post"
+on:
+  push:
+    branches: ["main", "master"]
+
+  schedule:
+    - cron: "* * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  recent_post_job:
+    runs-on: ubuntu-latest
+    name: Recent Post
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Recent post action
+        uses: "it176131/it176131.github.io/.github/actions/recent-posts@recent-posts"
+        with:
+          readme: "./README.md"
+          num-entries: 5
+
+      - name: Commit README
+        run: |
+          git config user.email github-actions@github.com
+          git config user.name github-actions
+          git add README.md
+          git commit -m "Synced and updated with most recent it176131.github.io blog post"
+          git push
