@@ -23,7 +23,7 @@ Checkout my blog! 👉 https://it176131.github.io/
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Sphere](https://www.goodreads.com/review/show/7161743966?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.83)
+- [Eaters of the Dead](https://www.goodreads.com/review/show/7197088086?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.7)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
