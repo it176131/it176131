@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Eaters of the Dead](https://www.goodreads.com/review/show/7197088086?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.7)
+- [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less](https://www.goodreads.com/review/show/7045788745?utm_medium=api&utm_source=rss) by Dan  Sullivan (⭐️4.23)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
