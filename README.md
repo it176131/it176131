@@ -27,11 +27,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Eaters of the Dead](https://www.goodreads.com/review/show/7197088086?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.7)
 - [Sphere](https://www.goodreads.com/review/show/7161743966?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.83)
 - [Congo](https://www.goodreads.com/review/show/7102618697?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.63)
 - [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/review/show/7069556015?utm_medium=api&utm_source=rss) by Michael   Lewis (⭐️4.34)
 - [Surrounded by Bad Bosses (And Lazy Employees): How to Stop Struggling, Start Succeeding, and Deal with Idiots at Work](https://www.goodreads.com/review/show/6977122439?utm_medium=api&utm_source=rss) by Thomas Erikson (⭐️3.66)
-- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/6984734757?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.88)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
