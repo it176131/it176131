@@ -31,7 +31,7 @@
 - [Sphere](https://www.goodreads.com/review/show/7161743966?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.83)
 - [Congo](https://www.goodreads.com/review/show/7102618697?utm_medium=api&utm_source=rss) by Michael Crichton (⭐️3.63)
 - [The Big Short: Inside the Doomsday Machine](https://www.goodreads.com/review/show/7069556015?utm_medium=api&utm_source=rss) by Michael   Lewis (⭐️4.34)
-- [Surrounded by Bad Bosses (And Lazy Employees): How to Stop Struggling, Start Succeeding, and Deal with Idiots at Work](https://www.goodreads.com/review/show/6977122439?utm_medium=api&utm_source=rss) by Thomas Erikson (⭐️3.66)
+- [Surrounded by Bad Bosses (And Lazy Employees): How to Stop Struggling, Start Succeeding, and Deal with Idiots at Work](https://www.goodreads.com/review/show/6977122439?utm_medium=api&utm_source=rss) by Thomas Erikson (⭐️3.67)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
