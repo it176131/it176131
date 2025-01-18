@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less](https://www.goodreads.com/review/show/7045788745?utm_medium=api&utm_source=rss) by Dan  Sullivan (⭐️4.23)
+- [Thinking in New Boxes: A New Paradigm for Business Creativity](https://www.goodreads.com/review/show/7226150625?utm_medium=api&utm_source=rss) by Luc de Brabandere (⭐️3.62)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
