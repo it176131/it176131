@@ -6,9 +6,6 @@ on:
   schedule:
     - cron: "* * * * *"
 
-permissions:
-  contents: write
-
 jobs:
   recent_post_job:
     runs-on: ubuntu-latest
