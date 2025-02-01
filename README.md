@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Thinking in New Boxes: A New Paradigm for Business Creativity](https://www.goodreads.com/review/show/7226150625?utm_medium=api&utm_source=rss) by Luc de Brabandere (⭐️3.62)
+- [The Agony and the Ecstasy](https://www.goodreads.com/review/show/7226074438?utm_medium=api&utm_source=rss) by Irving Stone (⭐️4.08)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
