@@ -5,11 +5,11 @@
 
 # Recent Articles From My [Blog](https://it176131.github.io/) ✍
 <!-- BLOG START -->
+- [Includes &amp; Layouts: Making My Site a Bit More Automated](https://it176131.github.io/2025/03/01/includes-layouts.html) by Ian Thompson
 - [2024: Year in Review](https://it176131.github.io/2025/01/31/year-in-review.html) by Ian Thompson
 - [Actions &amp; Workflows: Automatically Updating My GitHub Profile with Recent Blog Posts](https://it176131.github.io/2025/01/25/recent-posts-action.html) by Ian Thompson
 - [pydantic-xml: Parsing My RSS Feed](https://it176131.github.io/2024/12/23/pydantic-xml.html) by Ian Thompson
 - [isort + git: Cleaner Import Statements for Those Who Don’t Like pre-commit](https://it176131.github.io/2024/12/12/isort.html) by Ian Thompson
-- [PyCharm: Projects &amp; Environments](https://it176131.github.io/2024/12/03/pycharm-projects-envs.html) by Ian Thompson
 <!-- BLOG END -->
 
 # Videos 📺
