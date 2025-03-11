@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [The Agony and the Ecstasy](https://www.goodreads.com/review/show/7226074438?utm_medium=api&utm_source=rss) by Irving Stone (⭐️4.08)
+- [Disturbing the Universe](https://www.goodreads.com/review/show/7395095062?utm_medium=api&utm_source=rss) by Freeman Dyson (⭐️4.2)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
