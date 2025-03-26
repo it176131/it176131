@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Disturbing the Universe](https://www.goodreads.com/review/show/7395095062?utm_medium=api&utm_source=rss) by Freeman Dyson (⭐️4.19)
+- [Disturbing the Universe](https://www.goodreads.com/review/show/7395095062?utm_medium=api&utm_source=rss) by Freeman Dyson (⭐️)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
