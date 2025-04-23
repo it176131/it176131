@@ -27,11 +27,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/review/show/6308278802?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.95)
 - [Quiet Mind: How to Turn Down the Noise and Turn Up Confidence & Consistent Peak Performance](https://www.goodreads.com/review/show/7464849693?utm_medium=api&utm_source=rss) by Collin Henderson (⭐️4.2)
 - [Disturbing the Universe](https://www.goodreads.com/review/show/7395095062?utm_medium=api&utm_source=rss) by Freeman Dyson (⭐️4.19)
 - [The Agony and the Ecstasy](https://www.goodreads.com/review/show/7226074438?utm_medium=api&utm_source=rss) by Irving Stone (⭐️4.08)
 - [Thinking in New Boxes: A New Paradigm for Business Creativity](https://www.goodreads.com/review/show/7226150625?utm_medium=api&utm_source=rss) by Luc de Brabandere (⭐️3.62)
-- [10x Is Easier Than 2x: How World-Class Entrepreneurs Achieve More by Doing Less](https://www.goodreads.com/review/show/7045788745?utm_medium=api&utm_source=rss) by Dan  Sullivan (⭐️4.21)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
