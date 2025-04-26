@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/review/show/6308278802?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.95)
+- [Changing Minds: The Art and Science of Changing Our Own and Other People's Minds](https://www.goodreads.com/review/show/7521121067?utm_medium=api&utm_source=rss) by Howard Gardner (⭐️3.79)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
