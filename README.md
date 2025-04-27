@@ -27,7 +27,7 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
-- [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/review/show/6308278802?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.95)
+- [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/review/show/6308278802?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.94)
 - [Quiet Mind: How to Turn Down the Noise and Turn Up Confidence & Consistent Peak Performance](https://www.goodreads.com/review/show/7464849693?utm_medium=api&utm_source=rss) by Collin Henderson (⭐️4.2)
 - [Disturbing the Universe](https://www.goodreads.com/review/show/7395095062?utm_medium=api&utm_source=rss) by Freeman Dyson (⭐️4.19)
 - [The Agony and the Ecstasy](https://www.goodreads.com/review/show/7226074438?utm_medium=api&utm_source=rss) by Irving Stone (⭐️4.08)
