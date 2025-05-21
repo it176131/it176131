@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Changing Minds: The Art and Science of Changing Our Own and Other People's Minds](https://www.goodreads.com/review/show/7521121067?utm_medium=api&utm_source=rss) by Howard Gardner (⭐️3.77)
+- [A Curious History of Mathematics](https://www.goodreads.com/review/show/7588654531?utm_medium=api&utm_source=rss) by Joel Levy (⭐️3.5)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
