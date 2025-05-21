@@ -27,11 +27,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Changing Minds: The Art and Science of Changing Our Own and Other People's Minds](https://www.goodreads.com/review/show/7521121067?utm_medium=api&utm_source=rss) by Howard Gardner (⭐️3.77)
 - [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/review/show/6308278802?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.94)
 - [Quiet Mind: How to Turn Down the Noise and Turn Up Confidence & Consistent Peak Performance](https://www.goodreads.com/review/show/7464849693?utm_medium=api&utm_source=rss) by Collin Henderson (⭐️4.2)
 - [Disturbing the Universe](https://www.goodreads.com/review/show/7395095062?utm_medium=api&utm_source=rss) by Freeman Dyson (⭐️4.19)
 - [The Agony and the Ecstasy](https://www.goodreads.com/review/show/7226074438?utm_medium=api&utm_source=rss) by Irving Stone (⭐️4.08)
-- [Thinking in New Boxes: A New Paradigm for Business Creativity](https://www.goodreads.com/review/show/7226150625?utm_medium=api&utm_source=rss) by Luc de Brabandere (⭐️3.62)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
