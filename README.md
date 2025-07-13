@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [A Curious History of Mathematics](https://www.goodreads.com/review/show/7588654531?utm_medium=api&utm_source=rss) by Joel Levy (⭐️3.5)
+- [Angel Time (The Songs of the Seraphim, #1)](https://www.goodreads.com/review/show/7734758349?utm_medium=api&utm_source=rss) by Anne Rice (⭐️3.31)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
