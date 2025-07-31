@@ -27,11 +27,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [Angel Time (The Songs of the Seraphim, #1)](https://www.goodreads.com/review/show/7734758349?utm_medium=api&utm_source=rss) by Anne Rice (⭐️3.31)
 - [A Curious History of Mathematics](https://www.goodreads.com/review/show/7588654531?utm_medium=api&utm_source=rss) by Joel Levy (⭐️3.5)
 - [Changing Minds: The Art and Science of Changing Our Own and Other People's Minds](https://www.goodreads.com/review/show/7521121067?utm_medium=api&utm_source=rss) by Howard Gardner (⭐️3.79)
 - [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/review/show/6308278802?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.94)
 - [Quiet Mind: How to Turn Down the Noise and Turn Up Confidence & Consistent Peak Performance](https://www.goodreads.com/review/show/7464849693?utm_medium=api&utm_source=rss) by Collin Henderson (⭐️4.2)
-- [Disturbing the Universe](https://www.goodreads.com/review/show/7395095062?utm_medium=api&utm_source=rss) by Freeman Dyson (⭐️4.19)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
