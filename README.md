@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Valentine's Rising (Vampire Earth #4)](https://www.goodreads.com/review/show/7829451439?utm_medium=api&utm_source=rss) by E.E. Knight (⭐️)
+- [Valentine's Rising (Vampire Earth #4)](https://www.goodreads.com/review/show/7829451439?utm_medium=api&utm_source=rss) by E.E. Knight (⭐️3.98)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
