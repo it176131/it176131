@@ -27,11 +27,11 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
+- [30-Day Stay: A Real Estate Investor’s Guide to Mastering the Medium-Term Rental](https://www.goodreads.com/review/show/7973706241?utm_medium=api&utm_source=rss) by Zeona McIntyre (⭐️4.34)
 - [Valentine's Rising (Vampire Earth #4)](https://www.goodreads.com/review/show/7829451439?utm_medium=api&utm_source=rss) by E.E. Knight (⭐️3.98)
 - [Angel Time (The Songs of the Seraphim, #1)](https://www.goodreads.com/review/show/7734758349?utm_medium=api&utm_source=rss) by Anne Rice (⭐️3.31)
 - [A Curious History of Mathematics](https://www.goodreads.com/review/show/7588654531?utm_medium=api&utm_source=rss) by Joel Levy (⭐️3.67)
 - [Changing Minds: The Art and Science of Changing Our Own and Other People's Minds](https://www.goodreads.com/review/show/7521121067?utm_medium=api&utm_source=rss) by Howard Gardner (⭐️3.8)
-- [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/review/show/6308278802?utm_medium=api&utm_source=rss) by Sheryl Sandberg (⭐️3.94)
 <!-- GOODREADS-READ-LIST:END -->
 
 # Trophies 🏆
