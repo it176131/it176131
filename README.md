@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [30-Day Stay: A Real Estate Investor’s Guide to Mastering the Medium-Term Rental](https://www.goodreads.com/review/show/7973706241?utm_medium=api&utm_source=rss) by Zeona McIntyre (⭐️4.34)
+- [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/review/show/5256372078?utm_medium=api&utm_source=rss) by Mihály Csíkszentmihályi (⭐️4.11)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
