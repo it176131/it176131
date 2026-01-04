@@ -27,7 +27,7 @@
 
 ### Read (Last 5)
 <!-- GOODREADS-READ-LIST:START -->
-- [30-Day Stay: A Real Estate Investor’s Guide to Mastering the Medium-Term Rental](https://www.goodreads.com/review/show/7973706241?utm_medium=api&utm_source=rss) by Zeona McIntyre (⭐️4.34)
+- [30-Day Stay: A Real Estate Investor’s Guide to Mastering the Medium-Term Rental](https://www.goodreads.com/review/show/7973706241?utm_medium=api&utm_source=rss) by Zeona McIntyre (⭐️4.35)
 - [Valentine's Rising (Vampire Earth #4)](https://www.goodreads.com/review/show/7829451439?utm_medium=api&utm_source=rss) by E.E. Knight (⭐️3.98)
 - [Angel Time (The Songs of the Seraphim, #1)](https://www.goodreads.com/review/show/7734758349?utm_medium=api&utm_source=rss) by Anne Rice (⭐️3.31)
 - [A Curious History of Mathematics](https://www.goodreads.com/review/show/7588654531?utm_medium=api&utm_source=rss) by Joel Levy (⭐️4)
