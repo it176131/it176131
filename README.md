@@ -22,7 +22,7 @@
 # Books 📚
 ### Currently Reading
 <!-- GOODREADS-READING-LIST:START -->
-- [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/review/show/5256372078?utm_medium=api&utm_source=rss) by Mihály Csíkszentmihályi (⭐️4.11)
+- [The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business](https://www.goodreads.com/review/show/6046512218?utm_medium=api&utm_source=rss) by Clayton M. Christensen (⭐️4.02)
 <!-- GOODREADS-READING-LIST:END -->
 
 ### Read (Last 5)
